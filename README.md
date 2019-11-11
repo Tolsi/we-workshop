@@ -27,7 +27,7 @@ curl --silent --header "Accept: application/vnd.docker.distribution.manifest.v2+
 
 6. Создать и вызвать контракт в блокчейне
 
-http://localhost:6862/
+http://localhost:6862/api-docs/index.html#!/transactions/signAndBroadcast_1
 
 `POST /transactions/signAndBroadcast`
 
