@@ -1,4 +1,4 @@
-# Workshop - запуск кастомной сети Waves Enterprise
+# Workshop - запуск кастомной сети Waves Enterprise [![Contact](https://img.shields.io/badge/contact-telegram-9cf)](https://t.me/tolsi1)
 
 1. Создать аккаунт
 
